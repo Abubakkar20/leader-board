@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(224, 235, 233); 
+}
+
+.navbar-brand img{
+    width: 42px;
+}
+.navbar-nav img{
+    width: 42px;
+}
+.navbar{
+    background-color: #4f14f1;
+}
+.main-image img{
+    width: 56px;
+    height: 56px;
+}
+.blog-image img{
+    width: 117px;
+    height: 117px;
+}
+main{
+    max-width: 870px;
+    background-color:hsl(198, 21%, 91%);
+    margin-bottom: 50px;
+}
+.nav-bar{
+    max-width: 870px;
+}span{
+    font-size: 14px;
+    color: honeydew;
+}
+.checked{
+    color: orange;
+}
+.black{
+    color: black;
+}
+.navbar{
+    width: 870px;
+    margin: 0 auto;
+}
+.btn{
+    font-size: 12px;
+}
+.footer-btn{
+    font-size: 8px;
+}
+button{
+    background-color: rgb(226, 163, 156);
+}
